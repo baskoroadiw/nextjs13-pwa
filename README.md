@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Steps implement PWA in NextJS 13 with app directory
+
+-   Install depedency next-pwa
+-   Add manifest.json
+-   Load manifest in metadata layout.tsx file
+-   Add png icon
+-   Edit NextConfig
+-   Edit .gitignore
+-   Build app and start server
+
 ## Getting Started
 
 First, run the development server:
